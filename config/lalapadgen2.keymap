@@ -57,6 +57,11 @@
             bindings = <&kp TAB>;
             key-positions = <10 11>;
         };
+
+        COMBO_UNDER {
+            bindings = <&kp INTERNATIONAL_1>;
+            key-positions = <15 16>;
+        };
     };
 
     keymap {
